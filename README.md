@@ -2,8 +2,8 @@
 
  - I'm currently a Systems Analysis and Development Student on UFPR - Universidade Federal do Paraná
  - I live in Brazil
- - I'm currently looking for any Web Development Job
- - You can reach me on my [LinkedIn](https://www.linkedin.com/in/thalyson-andreatta-48939217b/) profile
+ - I'm an experience JAVA | Spring backend developer with emphasis on Microsservices arquitecture and Design Patterns.
+ - You can reach me on my [LinkedIn](https://www.linkedin.com/in/thalyson-andreatta/) profile
 
 <div align="center">
   <a href="https://github.com/nooneknowws"> 
