@@ -2,7 +2,7 @@
 
  - I'm currently a Systems Analysis and Development Student on UFPR - Universidade Federal do Paraná
  - I live in Brazil
- - I'm an experience JAVA | Spring backend developer with emphasis on Microsservices arquitecture and Design Patterns.
+ - I'm an experienced JAVA | Spring backend developer with emphasis on Microsservices arquitecture and Design Patterns.
  - You can reach me on my [LinkedIn](https://www.linkedin.com/in/thalyson-andreatta/) profile
 
 <div align="center">
